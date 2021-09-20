@@ -1,10 +1,10 @@
 {
 	"expo": {
-		"name": "My Todos App",
-		"slug": "todos-app",
+		"name": "My Todo List",
+		"slug": "my-todos-app",
 		"version": "1.0.0",
 		"orientation": "portrait",
-		"icon": "./assets/icon.png",
+		"icon": "./assets/todo.png",
 		"splash": {
 			"image": "./assets/splash.png",
 			"resizeMode": "contain",
@@ -19,7 +19,7 @@
 		},
 		"android": {
 			"adaptiveIcon": {
-				"foregroundImage": "./assets/adaptive-icon.png",
+				"foregroundImage": "./assets/todo.png",
 				"backgroundColor": "#FFFFFF"
 			},
 			"package": "com.anandafarhan.todosapp"
